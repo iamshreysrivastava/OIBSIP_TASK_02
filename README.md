@@ -1,6 +1,6 @@
 PORTFOLIO
 
-My portfolio This is a site mae by HTML, CSS, BOOSTRAP ####KAWAL JOT SINGH
+My portfolio This is a site mae by HTML, CSS, BOOSTRAP ####SHREY SRIVASTAVA
 
 Description This site ia a homepage for n portfolio. It includes my skill , work ,Experience , Education and Projects.
 
